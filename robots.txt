@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pallabroy-se.github.io/sitemap.xml
