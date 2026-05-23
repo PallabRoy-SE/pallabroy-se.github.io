@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: ayan.png
+  image: pallab.png
   image_circular: false
   more_info:
 
@@ -34,7 +34,7 @@ At Softeon I shipped two systems:
 
 Outside of work I built a kapa.ai (YC S23) inspired multi-tenant RAG platform. 12+ retrieval pipeline combinations tested before settling on the final stack. RAGAS scores: 0.91 faithfulness, 0.95 context recall, 0.89 context precision. MCP server integrated with Claude Desktop. Full observability with Prometheus and Grafana. Fully documented and containerised with Docker.
 
-I design systems keeping all the tradeoffs in mind and write about the decisions tutorials never cover, on [Dev.to](https://dev.to/ayanarshad02) and [LinkedIn](https://www.linkedin.com/in/md-ayan-arshad-740288248/).
+I design systems keeping all the tradeoffs in mind and write about the decisions tutorials never cover, on [Dev.to](https://dev.to/pallab_roy) and [LinkedIn](https://www.linkedin.com/in/pallabroy-job/).
 
 Looking for a fast-paced startup where I can own problems end to end, talk to users, and ship for them directly.
 
@@ -42,4 +42,4 @@ Looking for a fast-paced startup where I can own problems end to end, talk to us
 
 **I do one free RAG and Agents architecture review per month. 48 hours. I'll find where your system breaks before your users do.**
 
-[DM me on LinkedIn →](https://www.linkedin.com/in/md-ayan-arshad-740288248/)
+[DM me on LinkedIn →](https://www.linkedin.com/in/pallabroy-job/)
