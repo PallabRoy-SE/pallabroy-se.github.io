@@ -59,21 +59,11 @@ ninja.data = [{
             window.open("https://dev.to/pallab_roy/the-silent-killer-of-ai-projects-how-to-spot-data-leakage-before-it-kills-your-production-code-2f12", "_blank");
           
         },
-      },{id: "projects-multi-tenant-rag-chatbot",
-          title: 'Multi-Tenant RAG Chatbot',
-          description: "Designed and shipped a production RAG chatbot serving 500+ enterprise WMS clients. Faithfulness from 0.67 to 0.91. Unsupported claim rate below 4%.",
+      },{id: "projects-autonomous-subscription-retention-system",
+          title: 'Autonomous Subscription Retention System',
+          description: "An autonomous retention engine that optimizes operations pipelines and unlocks high-value billable hours by automating prediction and strategic decision logic.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_rag_chatbot/";
-            },},{id: "projects-ai-ticket-resolution-system",
-          title: 'AI Ticket Resolution System',
-          description: "Built an AI system for Softeon&#39;s WMS support division that surfaces similar past tickets and relevant documentation at the moment a new ticket is raised. Took requirements directly from the support team, shipped end to end.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_ticket_resolution/";
-            },},{id: "projects-kapa-ai-yc-s23-inspired-rag-platform",
-          title: 'kapa.ai (YC S23) - Inspired RAG Platform',
-          description: "A production-grade, multi-tenant documentation RAG system built from first principles. 12-combination retrieval experiment. RAGAS-gated CI/CD. MCP server for Claude/Cursor integration. All four RAGAS metrics passing gate thresholds.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_kapa_rag_platform/";
+              window.location.href = "/projects/1_customer_retention/";
             },},{
         id: 'social-cv',
         title: 'CV',
