@@ -1,6 +1,6 @@
 github_repos:
   - repo: PallabRoy-SE/customer_retention_ai_agent
-    name: "Credit Fraud Detection"
-    description: "Credit card fraud detection with ML. Handles extreme class imbalance using SMOTE. Compared Logistic Regression, Random Forest, and XGBoost across precision-recall tradeoffs."
+    name: "Customer Retention AI Agent"
+    description: "Enterprise MLOps and Agentic AI engine that automates customer churn predictions and strategic playbook execution."
     language: Python
-    topics: [ML, Classification, Imbalanced Data]
+    topics: [MLOps, Agentic-AI, XGBoost, FastAPI, ZenML]

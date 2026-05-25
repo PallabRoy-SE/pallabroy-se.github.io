@@ -6,7 +6,7 @@
     "email": "pallabroywrk@gmail.com",
     "phone": "",
     "url": "https://github.com/PallabRoy-SE",
-    "summary": "GenAI Engineer with ~2 years of production experience building reliable backend systems for RAG and agentic workflows. Architected a multi-tenant RAG chatbot at Softeon serving 500+ enterprise tenants with hybrid retrieval, tenant isolation, and observability. Built FastAPI-based RAG systems with Claude MCP integrations for agentic tool use. Passionate about context engineering, agent workflows, and shipping high-quality production AI systems. Available for US EST / EU hours.",
+    "summary": "AI-native software engineer with half a decade of professional experience engineering production-grade, zero-data-retention AI pipelines. Specializing in AI agents, LangGraph, and RAG architectures that bridge the gap between raw data and deterministic business automation.",
     "location": {
       "city": "Kolkata",
       "countryCode": "IN",
@@ -32,109 +32,86 @@
   },
   "work": [
     {
-      "name": "Bassetti",
-      "position": "GenAI Engineer",
-      "location": "Chennai, India",
-      "startDate": "2025-05-01",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "**Multi-Tenant RAG Chatbot — 500+ Enterprise Tenants:** Architected and led delivery of a production multi-tenant WMS chatbot; reported directly to AVP of Data Science.",
-        "Designed HLD and LLD for multi-tenant architecture using AWS (Cognito, S3, DynamoDB, Lambda, EC2); defined data flows, access boundaries, and deployment strategy.",
-        "Solved tenant isolation at the vector DB layer (Pinecone namespaces), eliminating cross-tenant data-leak risk across 500+ enterprise tenants.",
-        "Built hybrid retrieval with reranking and grounding validation; pushed faithfulness from 0.67 → 0.91 and unsupported claim rate below 4%.",
-        "Led a 2-engineer team: task breakdown, sprint planning, code reviews, and on-time delivery.",
-        "**AI-Driven Ticket Resolution System:** Led end-to-end design and delivery for Softeon's WMS support division, owning the project from architecture (HLD/LLD) to production rollout.",
-        "Built a statistically evaluated semantic retrieval system over historical tickets and documentation using PostgreSQL and ChromaDB, significantly reducing manual lookup time and unresolved ticket backlog.",
-        "Performed EDA on historical support data to analyse ticket distributions, resolution patterns, and retrieval effectiveness; optimised relevance thresholds and retrieval depth.",
-        "Designed evaluation workflows to assess retrieval precision, response usefulness, and failure cases, enabling continuous system improvement.",
-        "Implemented monitoring and logging to support reliability and future extensibility."
-      ]
-    },
-    {
-      "name": "Inceptial",
-      "position": "GenAI Engineer",
-      "location": "Remote",
+      "name": "Independent AI Solutions Architect",
+      "position": "AI Solutions Architect",
+      "location": "Remote US, Europe, Singapore",
       "startDate": "2024-09-01",
-      "endDate": "2025-02-01",
-      "summary": "",
+      "endDate": "",
+      "summary": "Partnering with founders of high-compliance advisory firms to audit and automate internal workflows.",
       "highlights": [
-        "Built a LinkedIn outreach chatbot integrated with the LinkedIn API: personalised messages, multi-turn conversation handling, and lead qualification across multiple client accounts simultaneously.",
-        "System ran on GPT-4 with real campaign traffic."
+        "Architecting agentic AI workflows powered by LangChain and LangGraph for complex web application automation.",
+        "Designing secure, multi-agent compliance screening engines for federal grant (FEMA) RFI reviews."
+      ]
+    },
+    {
+      "name": "BASSETTI India",
+      "position": "Full-time AI Engineer",
+      "location": "Kolkata, India",
+      "startDate": "2023-09-01",
+      "endDate": "",
+      "summary": "Progressed from intern to full-time AI engineer delivering production-ready systems.",
+      "highlights": [
+        "Architected zero-hallucination AI parsing engines to eliminate manual data entry bottlenecks.",
+        "Decreased manual processing time by 95% by replacing legacy manual data entry with localized, secure AI data pipelines.",
+        "Supported a user base of ~7000 processing ~1000 daily API requests with high availability."
+      ]
+    },
+    {
+      "name": "Inceptial Technologies",
+      "position": "Software Engineer",
+      "location": "Kolkata, India",
+      "startDate": "2021-07-01",
+      "endDate": "2023-08-31",
+      "summary": "Full-stack software development for various client projects.",
+      "highlights": [
+        "Developed and maintained scalable web applications and backend microservices."
       ]
     }
   ],
-  "education": [],
-  "awards": [
+  "education": [
     {
-      "title": "Topped Programming in Python & System Command",
-      "date": "2024-01-01",
-      "awarder": "IIT Madras",
-      "summary": "Topped the Programming in Python & System Command course."
-    },
-    {
-      "title": "Machine Learning Practice Coding Exam",
-      "date": "2024-01-01",
-      "awarder": "IIT Madras",
-      "summary": "Scored 85+ in the Machine Learning Practice Coding Exam."
-    },
-    {
-      "title": "ML Project — System Threat Forecaster",
-      "date": "2024-01-01",
-      "awarder": "IIT Madras",
-      "summary": "Scored 93/100 in the ML Project final evaluation."
+      "institution": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+      "area": "Computer Science & Engineering",
+      "studyType": "Bachelor of Technology - BTech",
+      "startDate": "2018-07-01",
+      "endDate": "2022-07-01",
+      "score": "",
+      "courses": []
     }
-  ],
+ ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [
-    {
-      "name": "GenAI & RAG",
+  {
+      "name": "Artificial Intelligence & Agentic AI",
       "level": "",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "LangChain",
-        "LangGraph",
-        "LangSmith",
-        "Custom Agent Frameworks",
-        "RAGAS",
-        "OpenAI API",
-        "Claude",
-        "AWS Bedrock",
-        "Hybrid Retrieval",
-        "Grounding Validation",
-        "Cohere"
-      ]
+      "keywords": ["AI-Agent", "Agentic-AI", "LangGraph", "LangChain", "RAG", "LLMs", "Workflow-Automation"]
     },
     {
-      "name": "LLMOps & Cloud",
-      "level": "",
-      "icon": "fa-solid fa-cloud",
-      "keywords": ["AWS (EC2, Lambda, S3, DynamoDB, Cognito, ECR, CloudWatch)", "Docker", "Kubernetes", "MLflow", "DVC", "ZenML", "CI/CD"]
-    },
-    {
-      "name": "ML & Modelling",
+      "name": "MLOps & Data Science",
       "level": "",
       "icon": "fa-solid fa-chart-line",
-      "keywords": ["XGBoost", "LightGBM", "scikit-learn", "Statistical Modelling", "Feature Engineering", "EDA", "Bias-Variance Analysis"]
+      "keywords": ["MLOps", "ZenML", "MLflow", "Evidently-AI", "XGBoost", "Predictive-Modeling", "Model-Telemetry", "Data-Drift"]
     },
     {
-      "name": "Systems Design",
-      "level": "",
-      "icon": "fa-solid fa-diagram-project",
-      "keywords": ["HLD/LLD Architecture", "Multi-Tenant Systems", "API Design", "Microservice Interactions", "Observability"]
-    },
-    {
-      "name": "Programming",
+      "name": "Backend Development",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python", "SQL", "FastAPI", "Bash"]
+      "keywords": ["Python", "FastAPI", "Django", "Microservices"]
     },
     {
-      "name": "Databases",
+      "name": "Frontend & Full-Stack",
+      "level": "",
+      "icon": "fa-solid fa-display",
+      "keywords": ["JavaScript", "React", "Angular", "Vue.js", "Streamlit"]
+    },
+    {
+      "name": "Databases & Infrastructure",
       "level": "",
       "icon": "fa-solid fa-database",
-      "keywords": ["PostgreSQL", "Qdrant", "ChromaDB", "Pinecone", "DynamoDB", "MongoDB", "Redis"]
+      "keywords": ["PostgreSQL", "Containerization", "Cloud-Deployment"]
     }
   ],
   "languages": [
@@ -144,30 +121,23 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Writing & Open Work",
-      "icon": "fa-solid fa-pen-nib",
-      "keywords": [
-        "Technical blog on Dev.to: deep dives on RAG, Agentic AI, multi-tenancy, retrieval failures, and production system design.",
-        "Production GenAI engineering content on LinkedIn (2,300+ followers) — decisions and tradeoffs tutorials never cover.",
-        "1 free RAG architecture review per month, 48-hour turnaround."
-      ]
-    }
-  ],
+  "interests": [],
   "references": [],
   "projects": [
-       {
-      "name": "Credit Card Fraud Detection — Full MLOps",
-      "summary": "End-to-end fraud detection ML pipeline with class imbalance handling, SMOTE, and reproducible experiment tracking via MLflow.",
+      {
+      "name": "Autonomous Subscription Retention System",
+      "description": "An enterprise MLOps and Agentic AI engine that automates customer churn predictions and strategic playbook execution.",
       "highlights": [
-        "Statistical EDA to analyse class imbalance, feature distributions, and leakage risks.",
-        "Evaluated models using ROC-AUC and precision-recall tradeoffs with MLflow experiment tracking.",
-        "Automated ML pipeline with CI/CD and retraining workflows using DVC and Kubernetes."
+        "77% Recall Score: Optimized for catching at-risk accounts.",
+        "80% Triage Automation: Reclaiming senior billable hours."
       ],
-      "url": "https://github.com/PallabRoy-SE/customer_retention_ai_agent",
+      "keywords": ["MLOps", "Agentic-AI", "XGBoost", "ZenML"],
       "startDate": "2024-01-01",
-      "endDate": "2024-05-01"
+      "endDate": "",
+      "url": "https://github.com/PallabRoy-SE/customer_retention_ai_agent",
+      "roles": ["Lead Architect"],
+      "entity": "Independent Project",
+      "type": "Application"
     }
   ]
 }

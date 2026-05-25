@@ -22,24 +22,25 @@ latest_posts:
   limit: 3
 ---
 
-I build GenAI and Agentic AI systems for production. RAG pipelines, multi-tenant architectures, agentic workflows — the full stack from design to deployment.
+I engineer production-grade, zero-data-retention AI pipelines—utilizing AI agents, Machine Learning, LangChain, LangGraph, and RAG—that bridge the gap between complex raw data and deterministic business automation.
 
-At Softeon I joined as one of the first people on the Data Science team. Talked directly with domain experts and AVPs, took requirements from the customer support team, designed the architecture, and shipped with a small team. No playbook, figured it out end to end.
+Currently, I am partnering with founders of high-compliance advisory firms to audit and automate their internal workflows, leveraging half a decade of professional AI engineering and full-stack development experience to deliver production-ready systems.
 
-At Softeon I shipped two systems:
+### At BASSETTI India I shipped:
 
-1. **Multi-tenant RAG chatbot** across 500+ enterprise clients. Tenant isolation at the vector DB layer, hybrid retrieval with cross-encoder reranking. Faithfulness pushed from 0.67 to 0.91. Unsupported claim rate below 4%.
+1.  **Multi-agent compliance screening engine**: Designed to automate federal grant (FEMA) RFI reviews utilizing an Orchestrator-Worker architecture.
+2.  **Zero-hallucination AI parsing engines**: Architected to eliminate manual data entry bottlenecks, structuring chaotic field data into strict, compliant database formats, **decreasing manual processing time by 95%**.
 
-2. **AI-powered ticket resolution system** for the WMS support division. Took requirements directly from the support team, built semantic retrieval over historical tickets and documentation, rolled it out end to end.
+### Outside of work:
 
-Outside of work I built a kapa.ai (YC S23) inspired multi-tenant RAG platform. 12+ retrieval pipeline combinations tested before settling on the final stack. RAGAS scores: 0.91 faithfulness, 0.95 context recall, 0.89 context precision. MCP server integrated with Claude Desktop. Full observability with Prometheus and Grafana. Fully documented and containerised with Docker.
+I am incredibly proud of designing robust, complex state-testing architectures and authoring trench-tested engineering deep-dives. I focus on building systems that process high volumes—supporting user bases of ~7000 or processing ~1000 daily API requests with high availability across containerized deployments.
 
-I design systems keeping all the tradeoffs in mind and write about the decisions tutorials never cover, on [Dev.to](https://dev.to/pallab_roy) and [LinkedIn](https://www.linkedin.com/in/pallabroy-job/).
+I write about Agentic AI design and production MLOps engineering on [Dev.to](https://dev.to/pallab_roy) and [LinkedIn](https://www.linkedin.com/in/pallabroy-job/).
 
-Looking for a fast-paced startup where I can own problems end to end, talk to users, and ship for them directly.
+I am actively pursuing remote software engineering and AI architecture roles within the US, European, and Singaporean tech hubs that prioritize building secure, human-in-the-loop ML applications.
 
 ---
 
-**I do one free RAG and Agents architecture review per month. 48 hours. I'll find where your system breaks before your users do.**
+**If you are a tech-forward firm looking to reclaim senior billable hours, or an engineering team hiring a pragmatic, AI-native developer, send me a DM on LinkedIn to talk architecture.**
 
 [DM me on LinkedIn →](https://www.linkedin.com/in/pallabroy-job/)
